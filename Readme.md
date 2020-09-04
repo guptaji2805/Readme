@@ -46,12 +46,7 @@
 	6: Set up Rules if you want or you can set afterwards in rule builder
 	7: Click Take me to dashboard 
 	
-![Add1](https://user-images.githubusercontent.com/60218281/92254399-77566800-eeee-11ea-8d6f-ecbf8817ab10.jpg)
-![Add2](https://user-images.githubusercontent.com/60218281/92254502-9e149e80-eeee-11ea-8a76-ce699ee3cf56.jpg)
-![Add3](https://user-images.githubusercontent.com/60218281/92254538-acfb5100-eeee-11ea-9b6d-48befd107960.jpg)
-![Add4](https://user-images.githubusercontent.com/60218281/92254594-c2707b00-eeee-11ea-93e8-e9b708a9c4db.jpg)
-![Add5](https://user-images.githubusercontent.com/60218281/92254604-c56b6b80-eeee-11ea-834a-2cce359a59c3.jpg)
-![Add6](https://user-images.githubusercontent.com/60218281/92254608-c6040200-eeee-11ea-8fd5-a9c3649991bc.jpg)
+
 
 	
 	
@@ -98,4 +93,9 @@
 
   Copyright @ DMINC  
 
-
+![Add1](https://user-images.githubusercontent.com/60218281/92254399-77566800-eeee-11ea-8d6f-ecbf8817ab10.jpg)
+![Add2](https://user-images.githubusercontent.com/60218281/92254502-9e149e80-eeee-11ea-8a76-ce699ee3cf56.jpg)
+![Add3](https://user-images.githubusercontent.com/60218281/92254538-acfb5100-eeee-11ea-9b6d-48befd107960.jpg)
+![Add4](https://user-images.githubusercontent.com/60218281/92254594-c2707b00-eeee-11ea-93e8-e9b708a9c4db.jpg)
+![Add5](https://user-images.githubusercontent.com/60218281/92254604-c56b6b80-eeee-11ea-834a-2cce359a59c3.jpg)
+![Add6](https://user-images.githubusercontent.com/60218281/92254608-c6040200-eeee-11ea-8fd5-a9c3649991bc.jpg)
